@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bde986ea-2dea-4b32-805a-ff115193d5fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/questions/string-tokeniser/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/string-tokeniser/src/main/java/com/example/tokeniser/StringTokeniser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/string-tokeniser/src/test/java/com/example/tokeniser/StringTokeniserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java-tdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/string-tokeniser/src/main/java/com/example/tutorial/string-tokeniser/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/string-tokeniser/src/test/java/com/example/tutorial/string-tokeniser/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/string-tokeniser/src/main/java/com/example/tutorial/string-tokeniser/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/string-tokeniser/src/test/java/com/example/tutorial/string-tokeniser/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tdd-file-loader/src/main/java/com/example/mockito/filetodb/FileLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/tdd-file-loader/src/main/java/com/example/mockito/filetodb/FileLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/FileLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/FileLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/LiveFileLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/LiveFileLoaderTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2z3TqypbnM21zpQhIrmsB1NHTr1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.App" />
+      <module name="main10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde986ea-2dea-4b32-805a-ff115193d5fc" name="Changes" comment="" />
+      <created>1750958952079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750958952079</updated>
+      <workItem from="1750958953156" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
