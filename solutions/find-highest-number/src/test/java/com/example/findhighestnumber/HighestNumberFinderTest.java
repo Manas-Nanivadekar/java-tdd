@@ -1,6 +1,13 @@
 package com.example.findhighestnumber;
 
-public class HighestNumberFinderTest {
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class HighestNumberFinderTest
+{
+    // TODO add test methods here.
+    // The methods must be annotated with annotation @Test. For example:
+    //
     @Test
     public void find_highest_in_array_of_one_expect_single_item() 
     {

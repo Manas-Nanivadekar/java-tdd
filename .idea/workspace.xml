@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bde986ea-2dea-4b32-805a-ff115193d5fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/questions/string-tokeniser/src/main/java/com/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/string-tokeniser/src/main/java/com/example/tokeniser/StringTokeniser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/string-tokeniser/src/test/java/com/example/tokeniser/StringTokeniserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-tdd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/questions/string-tokeniser/src/main/java/com/example/tutorial/string-tokeniser/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/questions/string-tokeniser/src/test/java/com/example/tutorial/string-tokeniser/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/string-tokeniser/src/main/java/com/example/tutorial/string-tokeniser/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/string-tokeniser/src/test/java/com/example/tutorial/string-tokeniser/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/tdd-file-loader/src/main/java/com/example/mockito/filetodb/FileLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/tdd-file-loader/src/main/java/com/example/mockito/filetodb/FileLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/FileLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/FileLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/LiveFileLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/tdd-file-loader/src/test/java/com/example/mockito/filetodb/LiveFileLoaderTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="bde986ea-2dea-4b32-805a-ff115193d5fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2z3TqypbnM21zpQhIrmsB1NHTr1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,6 +26,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/manas/Training/java-tdd",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750958952079</updated>
       <workItem from="1750958953156" duration="66000" />
+      <workItem from="1751022262443" duration="36000" />
     </task>
     <servers />
   </component>
