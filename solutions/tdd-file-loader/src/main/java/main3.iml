@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/java/com/example/tutorial/mocking-explored" isTestSource="false" packagePrefix="com.example.tutorial.mocking" />
+      <sourceFolder url="file://$MODULE_DIR$/com/example/tdd-file-loader" isTestSource="false" packagePrefix="com.example.tdd" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
