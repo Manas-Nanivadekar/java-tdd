@@ -1,4 +1,4 @@
-package com.example.topicmanager.lab2;
+package com.example.topicmanager;
 
 public class TopicTopScore {
     private String topicName;
