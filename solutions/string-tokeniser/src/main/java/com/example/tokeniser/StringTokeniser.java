@@ -1,6 +1,17 @@
 package com.example.tokeniser;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.StringTokenizer;
+
 public class StringTokeniser
 {
-    // Your code here
+    public String[] tokenise(String inputVal)
+    {
+        StringTokenizer st = new StringTokenizer(inputVal, ",");
+        List<String> list = new ArrayList<>();
+        while( st.hasMoreTokens() )
+            list.add(st.nextToken().trim());
+        return  list.toArray(new String[list.size()]);
+    }
 }
