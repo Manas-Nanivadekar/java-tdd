@@ -1,6 +1,5 @@
 package com.example.tokeniser;
 
-public class StringTokeniser
-{
+public class StringTokeniser {
     // Your code here
 }

@@ -11,7 +11,7 @@
 
     <modules>
         <module>find-highest-number</module>
-        <module>java-why-spy</module>
+        <module>java-why-spa</module>
         <module>mocking-explored</module>
         <module>string-tokeniser</module>
         <module>tdd-file-loader</module>
