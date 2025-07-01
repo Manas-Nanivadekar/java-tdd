@@ -1,4 +1,4 @@
-package com.example.tutorial.java-why-spa;
+package com.example.tutorial.java_why_spy;
 
 /**
  * Hello world!
